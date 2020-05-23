@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1590195197905,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/5-es2015.a3a0c689aeeb6accd7b1.js",
+        "/5-es5.a3a0c689aeeb6accd7b1.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.da879f32e66a68d3e371.js",
+        "/main-es5.da879f32e66a68d3e371.js",
+        "/polyfills-es2015.ecc9dc59ec38cb6ed382.js",
+        "/polyfills-es5.862fc5ef19747eef8b3f.js",
+        "/runtime-es2015.4f7f96d8f07f19c0d767.js",
+        "/runtime-es5.4f7f96d8f07f19c0d767.js",
+        "/styles.9d4bfb585cbfe8c8dcc3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icon/icon.html",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-48x48.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/developed-with-youtube-sentence-case-light.png",
+        "/assets/privacy-policy.txt"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/5-es2015.a3a0c689aeeb6accd7b1.js": "6bf7366203ff0521e400aee78144798207a58c66",
+    "/5-es5.a3a0c689aeeb6accd7b1.js": "457a2b79dbebd3398c1faf50c890e3baefe32029",
+    "/assets/icon/icon.html": "37d64cdb86abca8ee408e78e2426594455de6d3a",
+    "/assets/icons/icon-128x128.png": "1855fde998b3d93beaaa4b0df600162892af7442",
+    "/assets/icons/icon-144x144.png": "fc7be92b73a0e13d93a173bfe870a5e7cfcf47e3",
+    "/assets/icons/icon-152x152.png": "4d76bcd323a51d39388f49ffb670dee52c30f1d5",
+    "/assets/icons/icon-192x192.png": "67704cb90f85d702a0eafb8e66fb6e033d8d87d7",
+    "/assets/icons/icon-384x384.png": "6e776d712223842ce3639aa8d37c993dbd73dedb",
+    "/assets/icons/icon-48x48.png": "291eb7457380466d04606bec9930ce131cd31e26",
+    "/assets/icons/icon-512x512.png": "a6f9d59f588d9ebc2d4f2c571d181cb80175b02b",
+    "/assets/icons/icon-72x72.png": "7362a67a4625baf44d908892581027f9963ad355",
+    "/assets/icons/icon-96x96.png": "f1cebf80b8f47834875f9447776d21d764bf4936",
+    "/assets/images/developed-with-youtube-sentence-case-light.png": "5e464a581cf659c50cadc5606cba4f2e62c881f8",
+    "/assets/privacy-policy.txt": "5e1d7dad0f1b1c0099af0d5733a525f27ccd60bd",
+    "/favicon.ico": "6cf8ada4691f9c8311889101d975fe925597ec22",
+    "/index.html": "c83cb09c4eae76a7f7bace1e2cfe14a910f2d551",
+    "/main-es2015.da879f32e66a68d3e371.js": "40b303d2fd8f6c3e0995e26c31ae71e17c532ae3",
+    "/main-es5.da879f32e66a68d3e371.js": "da3aae331f2b75d57b8f62ed3fc98ad954b86f54",
+    "/polyfills-es2015.ecc9dc59ec38cb6ed382.js": "e096898d8fc6b831bc48441bae0da33179bc869d",
+    "/polyfills-es5.862fc5ef19747eef8b3f.js": "124220e84e277882b722986b935eb76caf188a2f",
+    "/runtime-es2015.4f7f96d8f07f19c0d767.js": "3fd85316be0ceac27e0437aa65754f626924b499",
+    "/runtime-es5.4f7f96d8f07f19c0d767.js": "c6a0614b98e820210ba156befe0582e7c58cd6b2",
+    "/styles.9d4bfb585cbfe8c8dcc3.css": "01c73bfeb882e9ffc40e0c564cffc9e2eec4e6b0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
